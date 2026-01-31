@@ -1,10 +1,10 @@
 <div align="center">
 
-# **`Awesome`** [Intrusion Detection](https://wikipedia.org/wiki/Intrusion_detection_system) System [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** Intrusion Detection System (_[IDS](https://wikipedia.org/wiki/Intrusion_detection_system)_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/netsec/new/)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -15,11 +15,20 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+An intrusion detection system is a device or software application that monitors a network or systems for malicious activity or policy violations.
 
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+
+## Classification of IDS
+
+### Network intrusion detection systems (NIDS)
+
+### Host-based intrusion detection systems (HIDS)
+
 
 ## Detection Method
 
@@ -45,7 +54,7 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-intrusion-detection-system/graphs/contributors)!
 
-[🔼 Back to top](#awesome-intrusion-detection-system-)
+[🔼 Back to top](#awesome-intrusion-detection-system-ids-)
 
 
 
