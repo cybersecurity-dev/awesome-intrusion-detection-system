@@ -29,7 +29,6 @@ An intrusion detection system is a device or software application that monitors 
 
 ### Host-based intrusion detection systems (HIDS)
 
-
 ## Detection Method
 
 ### Signature-based
@@ -42,6 +41,9 @@ An intrusion detection system is a device or software application that monitors 
 
 ### Detection Methods
 
+## Tools
+* [Suricata](https://wikipedia.org/wiki/Suricata_(software)) - [Suricata](https://github.com/OISF/suricata) is an open-source network analysis and threat detection software. 
+* [Snort](https://wikipedia.org/wiki/Snort_(software)) - [Snort](https://github.com/snort3/snort3) is a free open source network intrusion detection system and intrusion prevention system.
 
 ##
 
